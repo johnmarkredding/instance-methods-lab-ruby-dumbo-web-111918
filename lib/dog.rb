@@ -7,5 +7,7 @@ class Dog
   end
 end
 class Person
-  
+  def talk
+    
+  end
 end
